@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	1P_JAR	2021-06-12-05
+.google.com	TRUE	/	FALSE	1999999999	NID	216=j-StbM2BlEkUPNkjLBhZCsCINueRqxUOF--i2bpR8Wex4UWAs08GHMfcwfaPmaaCLmvzHzZk7AUOrW_GopmdE2GLuJpFCnkt9LyyW89A9AmFSk85WfRjc2pjo8FURHOAId0xRLMguMJOUZ7cg4Z-d37qwDmKKBjV5MGYwmBBpWg
+www.suzuki.co.id	TRUE	/	FALSE	1999999999	szck_user_lang	id
+www.suzuki.co.id	TRUE	/	FALSE	1999999999	szck_	n2a5gckd52c7ssacl7894eqsq7kurhd0
+

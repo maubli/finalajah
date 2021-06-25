@@ -1,0 +1,235 @@
+main {
+	background-color: #222224;
+	color: #fff;
+}
+
+.hero-product .caption .headline {
+	width: 60%;
+	margin: 30px auto;
+}
+
+.hero-product .caption .product {
+	position: relative;
+	width: 70%;
+}
+
+.gear_to {
+	width: 40% !important;
+	margin: -50px auto;
+	position: relative !important;
+}
+
+.product-info {
+	/*background: url('../img/automobile/xl7/bg-summary.jpg') no-repeat;*/
+	position: relative;
+}
+
+.product-info img {
+	position: absolute;
+	display: block;
+	width: 100%;
+}
+
+
+.hero-product .caption .logo-gear {
+	width: 100px;
+	left: 70%;
+	bottom: 0;
+	position: relative;
+}
+
+.product-info .product {
+	width: 200px;
+}
+
+.product-info .product-summary {
+	margin-top: -50px;
+}
+
+.product-info .product-summary .headline {
+	width: 50%;
+}
+
+.mt--20 {
+	margin-top: -20px !important;
+}
+
+.btn-sm-outline {
+	border: 1px solid #fff;
+	padding: 5px;
+	margin-bottom: 10px;
+	width: 100px;
+	display: block;
+	text-align: center;
+	background-color: #222224a3;
+}
+
+.btn-sm-outline a:hover {
+	background-color: #222224;
+}
+
+.feature-caption {
+	background-color: #222224a3;
+	width: 100%;
+	text-align: center;
+	white-space: nowrap;
+	padding: 10px 0 0 0 !important;
+}
+
+.x-small {
+	font-size: x-small !important;
+}
+
+.model-tab {
+    margin-left: 30px
+}
+
+.model-tab a {
+    color: #ccc;
+    font-size: 24px;
+    margin: 0 5px
+}
+
+.model-tab a.active {
+    border-bottom: 2px solid #e13333;
+    color: #131313
+}
+
+.panel {
+	margin: 10px 20px;
+}
+
+.panel-title {
+    background: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px;
+    margin: 0;
+    padding: 10px;
+    position: relative;
+    text-transform: capitalize !important;
+    color: #000;
+}
+
+.panel-title::after {
+    color: #c30101;
+    content: "+";
+    font-size: 20px;
+    line-height: 20px;
+    position: absolute;
+    right: 25px;
+    top: 50%;
+    transform: translateY(-50%)
+}
+
+.panel.open .panel-title::after {
+    content: "-"
+}
+
+.panel-body {
+	display: none;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+.row {
+	margin: 0 !important;
+}
+
+.color-preview img {
+	margin: auto;
+	position: relative;
+	width: 50% !important;
+}
+
+.product-color {
+	background: url(../img/automobile/xl7/bg-color-preview.png) no-repeat;
+	background-size: cover;
+}
+	
+.color-options {
+	z-index: 1;
+	transform: rotate(-10deg);
+}
+
+.color-options a.active {
+	box-shadow: 0px 0px 10px #E9E9E9 !important;
+}
+
+.color-options a {
+	border-radius: 0; 
+	border: none; 
+	display: inline-block;
+	height: 15px;
+	width: 35px;
+	margin-right: 0; 
+	margin-left: -5px;
+	overflow: hidden;
+	position: relative;
+}
+
+.fs-11 {
+	font-size: x-small;
+}
+
+.fs-8 {
+	font-size: xx-small !important;
+}
+
+.product-features {
+	overflow: hidden;
+}
+
+table {
+	width: 100%;
+	border-collapse: none;
+}
+
+table th, td {
+	padding: 5px;
+	font-size: x-small;
+}
+
+.rising-orange {
+	background: #c04c3c;
+}
+
+.orange {
+	background: #c04c3c8a;
+}
+
+.caption-right {
+	margin-left: 50%;
+	font-size: 10px !important;
+	max-width: 170px;
+	color: #000 !important;
+}
+
+.preview-3d {
+	background: #222224 url(../img/automobile/xl7/bg-3d.png) no-repeat !important;
+    background-size: cover  !important;
+    margin-top: -40%;
+}
+
+#threedContent {
+	bottom: 0 !important;
+}
+
+.owl-dots {
+	display: none;
+}
+
+.owl-nav {
+	width: 80px !important;
+	margin: 10px auto !important;
+}
+
+.owl-prev, .owl-next {
+	background: #4d4e4d !important;
+	width: 30px;
+	margin: 5px !important;
+}
+
+.text-uppercase {
+	text-transform: uppercase !important;
+}

@@ -1,0 +1,34 @@
+.product-color {
+	background: url('../img/automobile/new-ignis/bg-variant.png') no-repeat right;
+	background-size: 80%;
+	background-position-y: 20%;
+}
+
+.product-prices {
+	background: url('../img/automobile/new-ignis/bg-price.jpg');
+	background-size: cover;
+}
+
+.main-slider  {
+	background-color: #eceded;
+	padding: 30px 0;
+}
+
+.main-slider .owl-dots {
+	background: transparent;
+}
+
+.main-slider .owl-dots .owl-dot {
+	display: inline-block;
+	margin: 0 4px;
+	height: 5px;
+	width: 25px;
+	outline: 0;
+	border-radius: 0;
+	border: none;
+	background: #707070;
+}
+
+.main-slider .owl-dots .owl-dot.active {
+	background: #ec0423;
+}
